@@ -1,2 +1,1 @@
-# Tindog-site
-Simulateed tindog site from scratch
+TinDog Starting Files
